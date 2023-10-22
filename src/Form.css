@@ -1,0 +1,19 @@
+
+*{
+    text-align: center;
+    background-color: black;
+}
+input{
+    /* color: 'white'; */
+    background-color: white;
+    
+}
+p{
+    color: red;
+}
+h1{
+    color: beige;
+}
+label{
+    color: antiquewhite;
+}
